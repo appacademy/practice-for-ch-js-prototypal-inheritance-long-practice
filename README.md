@@ -1,0 +1,1 @@
+# practice-for-ch-js-prototypal-inheritance-long-practice
