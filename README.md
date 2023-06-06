@@ -2,7 +2,7 @@
 
 It's time to practice _prototypal inheritance_!
 
-## Learning Goals
+## Learning goals
 
 By the end of this practice, you should be able to
 
